@@ -66,8 +66,8 @@
 ### Backend - Node.js & NestJS
 **[Here-you](https://github.com/Here-You/here-you-backend-legacy)** <sub>(2023.09 ~ 2024.02)</sub>
 <li> Tech :
-  <img src = "https://img.shields.io/badge/JavaScript-007396?&style=flat-square&logo=javaScript&logoColor=white">
-  <img src = "https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=Node.js&logoColor=white">
+  <img src = "https://img.shields.io/badge/typeScript-007396?&style=flat-square&logo=typeScript&logoColor=white">
+  <img src = "https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJs&logoColor=white">
   <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </li>
 <li> Collab :
@@ -81,6 +81,44 @@
   [노션 바로가기](https://sally626.notion.site/Here-You-68e12481bbda4e88b8986a9ff38be6e0?pvs=73)
 </li>
 <br>
+
+**[SMUS](https://github.com/moonyaeyoon/SMUS-nestjs)** <sub>(2023.09 ~ 2024.02)</sub>
+<li> Tech :
+  <img src = "https://img.shields.io/badge/typeScript-007396?&style=flat-square&logo=typeScript&logoColor=white">
+  <img src = "https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJs&logoColor=white">
+  <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</li>
+<li> Collab :
+  <img src = "https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+  <img src = "https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src = "https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white">
+</li>
+<li>상명대학교만의 커뮤니티 사이트</li>
+<li>
+
+  [노션 바로가기](https://www.notion.so/ddakzip/SMUS-216c76bc4f3d4990b168cd65dd142043?source=copy_link)
+</li>
+<br>
+
+**[Pinple](https://github.com/moonyaeyoon/SMUS-nestjs)** <sub>(2023.07 ~ 2023.08)</sub>
+<li> Tech :
+  <img src = "https://img.shields.io/badge/JavaScript-007396?&style=flat-square&logo=JavaScript&logoColor=white">
+  <img src = "https://img.shields.io/badge/Node.js-E0234E?style=flat-square&logo=Node.js&logoColor=white">
+  <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</li>
+<li> Collab :
+  <img src = "https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+  <img src = "https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src = "https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white">
+</li>
+<li>공공API 기반 도심 혼잡도 알림 서비스</li>
+<li>
+
+  [노션 바로가기](https://boundless-measure-339.notion.site/295817f238fd4549a5bfd6f734aac6b0?v=5de6a95dc09c4ed8a34fdc63506c838e)
+</li>
+<br>
+
+
 
 ### Blockchain
 
