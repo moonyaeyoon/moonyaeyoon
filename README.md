@@ -5,6 +5,28 @@
 
 ## 💻 Projects
 
+### Full Stack
+**[tune-chain](https://github.com/tune-chain)** <sub>(2025.05 ~)</sub>  
+<li> Tech : 
+  <img src = "https://img.shields.io/badge/typeScript-007396?&style=flat-square&logo=typeScript&logoColor=white">
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src = "https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white">
+  <img src = "https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJs&logoColor=white">
+  <img src = "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+  <img src = "https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
+  <img src = "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src = "https://img.shields.io/badge/Redis-4479A1?style=flat-square&logo=Redis&logoColor=white">
+</li>
+<li> Collab :
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src = "https://img.shields.io/badge/Figma-000000?style=flat-square&logo=Figma&logoColor=white">
+</li>
+<li>연합학습과 블록체인 기반 보상 시스템을 적용한 알고리즘 음악 스트리밍 플랫폼</li>
+<li> 
+  
+  [노션 바로가기](https://warp-acai-697.notion.site/1e7c4d59bacb8059b610c2066de90bce?pvs=74)
+</li>
 
 ### Backend - Spring
 **[LEAFMAP](https://github.com/Heartravelers/leaf-map-BE)** <sub>(2024.10 ~)</sub>  
@@ -170,20 +192,16 @@
 
 ## Activities
 
-**[BAY]()**
-
-**[프로메테우스]()**
-
-**[UMC]()**
+**[BAY]()**  **[프로메테우스]()**   **[UMC]()**
 
 **[CJ UNIT]()**
 
 **[하인슈타인]()**
 
-## 🧑‍💻 Most Used Languages
+## 🧑‍💻 LOG
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonyaeyoon&theme=transparent&exclude_repo=personalizedThumbnail&layout=compact&langs_count=10"/></a>
 
-
+![moonyaeyoon's github stats](https://github-readme-stats.vercel.app/api?username=moonyaeyoon&show_icons=true&theme=default)
 
 
 ## 🔑 Problem Solving
