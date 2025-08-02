@@ -201,7 +201,6 @@
 ## 🧑‍💻 LOG
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonyaeyoon&theme=transparent&exclude_repo=personalizedThumbnail&layout=compact&langs_count=10"/></a>
 
-![moonyaeyoon's github stats](https://github-readme-stats.vercel.app/api?username=moonyaeyoon&show_icons=true&theme=default)
 
 
 ## 🔑 Problem Solving
